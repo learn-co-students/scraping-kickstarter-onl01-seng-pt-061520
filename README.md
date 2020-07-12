@@ -191,7 +191,7 @@ Now that we have our `title` selector, let's add it into a comment in our `kicks
 
 ### Selecting the Image Link
 
-Back in Chrome, we can see in the inspector that there is a `div` with a class
+Back in Chrome, we can see i  n the inspector that there is a `div` with a class
 of `project-thumbnail`. Seems like a good place to look. Let's give it a try in
 Pry.
 
